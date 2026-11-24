@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.trailing",
+  "name": "Trailing Whitespace Trimmer",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Highlights extraneous trailing whitespace and supports one-click trimming",
+  "category": "editor",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-trailing"
+}
